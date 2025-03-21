@@ -60,16 +60,16 @@ params:
           buttons:
             - name: Papers
               url: papers/
-            - name: Courses
+            - name: Projects
               url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+            # - name: Data
+            #   url: data/
+            # - name: Books
+            #   url: books/
+            # - name: Tags
+            #   url: tags/
+            # - name: Archive
+            #   url: archive/
             # - name: Blog
             #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
@@ -80,12 +80,12 @@ params:
           url: mailto:tuanpham1503@gmail.com
         # - name: Zoom
         #   url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+        # - name: Location
+        #   url: location/
+        # - name: Office Hours
+        #   url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?hl=en&user=dIkMruUAAAAJ&view_op=list_works&authuser=1&sortby=pubdate
         - name: GitHub
           url: https://github.com/tuanmp
         # - name: Substack
