@@ -1,5 +1,5 @@
 baseURL: "https://tuanmp.github.io/" 
-title: Moritz-Maria von Igelfeld
+title: Tuan Pham's homepage
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -55,8 +55,8 @@ params:
           title: Minh-Tuan Pham
           subtitle: "I am a PhD candidate at the European Organization for Nuclear Research (CERN)"
           imageUrl: "profile-pic.jpg"
-          imageWidth: 180
-          imageHeight: 180
+          imageWidth: 220
+          imageHeight: 220
           buttons:
             - name: Papers
               url: papers/
@@ -77,7 +77,7 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: tuanpham1503@gmail.com
+          url: mailto:tuanpham1503@gmail.com
         # - name: Zoom
         #   url: https://www.zoom.us/my/igelfeld
         - name: Location
