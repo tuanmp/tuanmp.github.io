@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Minh-Tuan Pham
-          subtitle: "I am a PhD candidate at the European Organization for Nuclear Research (CERN)"
+          subtitle: "I am a doctoral researcher at the European Organization for Nuclear Research (CERN). I work on the development of a Graph Neural Network-based algorithm for charged-particle track reconstruction in the ATLAS detector at CERN. I am interested in leveraging data to solve scientific and social problems, especially through machine learning. My most significant skills cover the toolbox of a data scientist, including Python, Pandas, Numpy, Matplotlib, PyTorch; among others."
           imageUrl: "profile-pic.jpg"
           imageWidth: 220
           imageHeight: 220
