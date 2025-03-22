@@ -10,21 +10,21 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
+        # - name: Books
+        #   url: books/
+        #   weight: 5 
         - name: Papers
           url: papers/
           weight: 2
         - name: Courses
           url: courses/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        # - name: Data
+        #   url: data/
+        #   weight: 4 
+        # - name: Blog
+        #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        #   weight: 6
 
 params:
     description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
@@ -54,7 +54,7 @@ params:
           enabled: true
           title: Minh-Tuan Pham
           subtitle: "I am a PhD candidate at the European Organization for Nuclear Research (CERN)"
-          # imageUrl: "profile-pic.jpg"
+          imageUrl: "profile-pic.jpg"
           imageWidth: 220
           imageHeight: 220
           buttons:
@@ -106,7 +106,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Minh-Tuan Pham"
-      icon: image.png
+      # icon: image.png
       iconHeight: 18
 
 markup:
