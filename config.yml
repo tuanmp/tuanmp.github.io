@@ -54,7 +54,7 @@ params:
           enabled: true
           title: Minh-Tuan Pham
           subtitle: "I am a PhD candidate at the European Organization for Nuclear Research (CERN)"
-          imageUrl: "profile-pic.jpg"
+          # imageUrl: "profile-pic.jpg"
           imageWidth: 220
           imageHeight: 220
           buttons:
@@ -106,7 +106,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Minh-Tuan Pham"
-      icon: favicon.ico
+      icon: image.png
       iconHeight: 18
 
 markup:
