@@ -7,7 +7,7 @@ author: [Sylvain Caillou, Paolo Calafiura, Xiangyang Ju, Daniel Murnane, "Tuan P
 # description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
 summary: "This paper presents an algorithm based on Graph Neural Network for charged-particle track reconstruction in the ATLAS Inner Tracker. Using realistic simulation data, we demonstrate the performance of the algorithm in comparison with the state-of-the-art technique." 
 cover:
-    image: "image.png"
+    image: "gnn4itk.png"
     alt: "The GNN4ITk reconstruction chain."
     relative: false
 editPost:
@@ -33,7 +33,7 @@ Particle tracking is vital for the ATLAS physics programs. To cope with the incr
 
 ##### Figure 6: The GNN4ITk pipeline implementation
 
-![](image.png)
+![](gnn4itk.png)
 
 ---
 
