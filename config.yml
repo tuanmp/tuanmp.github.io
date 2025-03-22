@@ -27,13 +27,13 @@ menu:
         #   weight: 6
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
+    description: "I am a doctoral candidate at the European Organization for Nuclear Research. My research focuses on the application of machine learning methods to experimental high-energy physics."
     author: Minh-Tuan Pham
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
-    disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true

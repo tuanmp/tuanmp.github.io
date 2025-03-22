@@ -11,7 +11,7 @@ cover:
     alt: "The GNN4ITk reconstruction chain."
     relative: false
 editPost:
-    URL: "https://zenodo.org/records/14526454"
+    URL: "https://doi.org/10.1051/epjconf/202429503030"
     Text: "EPJ Web of Conf."
 
 ---
