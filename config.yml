@@ -10,24 +10,18 @@ taxonomies:
 
 menu:
     main:
-        # - name: Books
-        #   url: books/
-        #   weight: 5 
         - name: Papers
           url: papers/
           weight: 2
-        # - name: Courses
-        #   url: courses/
-        #   weight: 3
-        # - name: Data
-        #   url: data/
-        #   weight: 4 
-        # - name: Blog
-        #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-        #   weight: 6
+        - name: Talks
+          url: talks/
+          weight: 3
+        - name: About
+          url: about/
+          weight: 4
 
 params:
-    description: "I am a doctoral candidate at the European Organization for Nuclear Research. My research focuses on the application of machine learning methods to experimental high-energy physics."
+    description: "Postdoctoral researcher at IJCLab (CNRS/Université Paris-Saclay). I develop machine-learning and generative-AI methods for high-energy physics, including graph neural networks for track reconstruction and fast detector simulation."
     author: Minh-Tuan Pham
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -53,51 +47,26 @@ params:
     profileMode:
           enabled: true
           title: Minh-Tuan Pham
-          subtitle: "I am a doctoral researcher at the European Organization for Nuclear Research (CERN). I work on the development of a Graph Neural Network-based algorithm for charged-particle track reconstruction in the ATLAS detector at CERN. I am interested in leveraging data to solve scientific and social problems, especially through machine learning. My most significant skills cover the toolbox of a data scientist, including Python, Pandas, Numpy, Matplotlib, PyTorch; among others."
+          subtitle: "I am a postdoctoral researcher at the Irène Joliot-Curie Laboratory (IJCLab), Université Paris-Saclay, working on scientific machine learning for particle physics. My research spans graph neural networks for charged-particle track reconstruction in the ATLAS Inner Tracker, and generative models (normalizing flows, diffusion) for fast detector simulation. I completed my PhD at the University of Wisconsin–Madison and was previously a doctoral researcher at CERN."
           imageUrl: "profile-pic.jpg"
           imageWidth: 220
           imageHeight: 220
           buttons:
             - name: Papers
               url: papers/
-            # - name: Projects
-            #   url: courses/
-            # - name: Data
-            #   url: data/
-            # - name: Books
-            #   url: books/
-            # - name: Tags
-            #   url: tags/
-            # - name: Archive
-            #   url: archive/
-            # - name: Blog
-            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Talks
+              url: talks/
 
     socialIcons:
-        - name: CV
-          url: cv-simple-francais-final.pdf
-        - name: CV
-          url: cv-simple-en-photo.pdf
+        # CVs temporarily hidden while being finalized
         - name: Email
-          url: mailto:tuanpham1503@gmail.com
-        # - name: Zoom
-        #   url: https://www.zoom.us/my/igelfeld
-        # - name: Location
-        #   url: location/
-        # - name: Office Hours
-        #   url: officehours/
+          url: mailto:pmtuan@proton.me
         - name: Google Scholar
-          url: https://scholar.google.com/citations?hl=en&user=dIkMruUAAAAJ&view_op=list_works&authuser=1&sortby=pubdate
+          url: https://scholar.google.com/citations?hl=en&user=dIkMruUAAAAJ&view_op=list_works&sortby=pubdate
         - name: GitHub
           url: https://github.com/tuanmp
-        # - name: Substack
-        #   url: https://pmichaillat.substack.com
-        # - name: YouTube
-        #   url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        # - name: Twitter
-        #   url: https://twitter.com/McCallSmith
         - name: LinkedIn
-          url: https://www.linkedin.com/in/tuan-pham-87624797/
+          url: https://www.linkedin.com/in/tuan-pham-phd-87624797/
 
     assets:
         disableScrollBarStyle: true

@@ -5,7 +5,7 @@ date: 2021-09-08
 tags: ["Quantum Machine Learning","Physics", "Support Vector Machine", "Quantum Kernel" , "Large Hadron Collider"]
 author: [S. L. Wu, S. Sun, W. Guan, C. Zhou, J. Chan, C. L. Cheng, T. Pham, Y. Qian, A. Wang, R. Zhang, M. Livny, J. Glick, P. Barkoutsos, S. Woerner, I. Tavernelli, F. Carminati, A. Di Meglio, A. C. Y. Li, J. Lykken, P. Spentzouris, S. Y. Chen, S. Yoo, T. Wei]
 # description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "We studied a support vector machine with a quantum kernel estimator (SQVM-Kernel) for classification of proton-proton final states, targeting the Higgs boson production associated with a pair of top quarks. Using a dataset of 50000 events, we demonstrated the evquivalent performance of the quantum algorithm compared to the classical counterparts." 
+summary: "We studied a support vector machine with a quantum kernel estimator (SQVM-Kernel) for classification of proton-proton final states, targeting the Higgs boson production associated with a pair of top quarks. Using a dataset of 50000 events, we demonstrated the equivalent performance of the quantum algorithm compared to the classical counterparts." 
 cover:
     image: "circuit.png"
     alt: "QSVM quantum circuit."

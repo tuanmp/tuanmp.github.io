@@ -8,7 +8,7 @@ author: [Tuan Pham,  Xiangyang Ju]
 summary: "We explore the use of conditional normalizing flow in the simulation of interaction between hadronic particles and atomic nuclei in ordinary matter. We trained generative models to reproduce data simulated by the state-of-the-art simulator, conditioned on the kinematics of the incoming hadron." 
 cover:
     image: "xs.png"
-    alt: "The GNN4ITk reconstruction chain."
+    alt: "Total and elastic cross section of pion-proton scattering as a function of pion kinetic energy."
     relative: false
 editPost:
     URL: "https://doi.org/10.1051/epjconf/202429509034"
