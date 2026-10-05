@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tuan Pham&#39;s homepage</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Tuan Pham&#39;s homepage</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimizations of the ATLAS ITk GNN reconstruction pipeline</title>
+      <link>http://localhost:1313/papers/paper6/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper6/</guid>
+      <description>We present refinements and optimizations of the Graph Neural Network (GNN) tracking pipeline for the ATLAS Inner Tracker, including updated physics performance, robustness against detector defects, and computational improvements such as model compression and structured pruning.</description>
+    </item>
+    <item>
+      <title>Computational Performance of the ATLAS ITk GNN Track Reconstruction Pipeline</title>
+      <link>http://localhost:1313/papers/paper7/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper7/</guid>
+      <description>We describe a variety of improvements to the algorithmic implementations and machine learning models of the GNN-based track reconstruction pipeline for the ATLAS ITk, significantly decreasing execution times from minutes to hundreds of milliseconds.</description>
+    </item>
+    <item>
+      <title>Combination and summary of ATLAS dark matter searches interpreted in a 2HDM with a pseudo-scalar mediator using 139 ifb of 13 TeV pp collision data</title>
+      <link>http://localhost:1313/papers/paper4/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper4/</guid>
+      <description>We combined and interpreted the result from a wide range of searches targeting different experimental signatures in the context of a Two-Higgs-Doublet Model (2HDM) with an additional pseudo-scalar mediator (2HDM+a).</description>
+    </item>
+    <item>
+      <title>Location</title>
+      <link>http://localhost:1313/location/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/location/</guid>
+      <description>Professor Dr von Igelfeld&amp;#39;s mailing and office addresses at the Institute of Romance Philology.</description>
+    </item>
+    <item>
+      <title>Office Hours</title>
+      <link>http://localhost:1313/officehours/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/officehours/</guid>
+      <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
+    </item>
+    <item>
+      <title>Physics Performance of the ATLAS GNN4ITk Track Reconstruction Chain</title>
+      <link>http://localhost:1313/papers/paper1/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper1/</guid>
+      <description>This paper presents an algorithm based on Graph Neural Network for charged-particle track reconstruction in the ATLAS Inner Tracker. Using realistic simulation data, we demonstrate the performance of the algorithm in comparison with the state-of-the-art technique.</description>
+    </item>
+    <item>
+      <title>Simulation of Hadronic Interactions with Deep Generative Models</title>
+      <link>http://localhost:1313/papers/paper3/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper3/</guid>
+      <description>We explore the use of conditional normalizing flow in the simulation of interaction between hadronic particles and atomic nuclei in ordinary matter. We trained generative models to reproduce data simulated by the state-of-the-art simulator, conditioned on the kinematics of the incoming hadron.</description>
+    </item>
+    <item>
+      <title>A Language Model for Particle Tracking</title>
+      <link>http://localhost:1313/papers/paper8/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper8/</guid>
+      <description>We present a tokenized detector representation that allows training a BERT model (TrackingBERT) for particle tracking. This work represents a first step towards a foundational model for particle detector understanding.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>About Minh-Tuan Pham.</description>
+    </item>
+    <item>
+      <title>Talks &amp; Posters</title>
+      <link>http://localhost:1313/talks/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/</guid>
+      <description>Selected talks and posters by Minh-Tuan Pham on machine learning for particle tracking and simulation.</description>
+    </item>
+    <item>
+      <title>Hierarchical Graph Neural Networks for Particle Track Reconstruction</title>
+      <link>http://localhost:1313/papers/paper9/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper9/</guid>
+      <description>We introduce a novel variant of GNN for particle tracking called Hierarchical Graph Neural Network (HGNN), together with a learnable pooling algorithm (GMPool) and a dedicated loss function, showing improved tracking efficiency and robustness over traditional GNNs.</description>
+    </item>
+    <item>
+      <title>Application of quantum machine learning using the quantum kernel algorithm on high energy physics analysis at the LHC</title>
+      <link>http://localhost:1313/papers/paper2/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper2/</guid>
+      <description>We studied a support vector machine with a quantum kernel estimator (SQVM-Kernel) for classification of proton-proton final states, targeting the Higgs boson production associated with a pair of top quarks. Using a dataset of 50000 events, we demonstrated the equivalent performance of the quantum algorithm compared to the classical counterparts.</description>
+    </item>
+    <item>
+      <title>Semi-classical methods, angular momentum, and non-analytic problems</title>
+      <link>http://localhost:1313/papers/paper5/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper5/</guid>
+      <description>We explore the semi-classical Sommerfeld method of quantization as applied to states with nonzero angular momentum, and show that it leads to qualitatively and quantitatively useful information about systems with spherically symmetric potentials.</description>
+    </item>
+    <item>
+      <title>List of Irregular Verbs Across Romance Languages</title>
+      <link>http://localhost:1313/data/data1/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/data/data1/</guid>
+      <description>This dataset contains all irregular verbs in known Romance languages.</description>
+    </item>
+    <item>
+      <title>Lectures at the Villa of Reduced Circumstances</title>
+      <link>http://localhost:1313/courses/course1/</link>
+      <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/course1/</guid>
+      <description>This graduate course presents classical results in Romance philology.</description>
+    </item>
+    <item>
+      <title>Portugese Irregular Verbs</title>
+      <link>http://localhost:1313/books/book1/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/book1/</guid>
+      <description>This book discusses Portugese irregular verbs in great details.</description>
+    </item>
+    <item>
+      <title>Profanity in Early Irish</title>
+      <link>http://localhost:1313/courses/course2/</link>
+      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/course2/</guid>
+      <description>This undergraduate course discusses profanity in Early Irish.</description>
+    </item>
+  </channel>
+</rss>
